@@ -34,7 +34,7 @@
 
 ## 🍁 Table of Content
 
-- <a href = "/Array"> Arrays </a>
+- <a href = "/ArrayS"> Arrays </a>
 - <a href = "/Binary Search"> Binary Search </a>
 - <a href = "/Strings"> Strings </a>
 - <a href = "/Linked Lists"> Linked List </a>
